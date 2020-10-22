@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+body{
+	
+	background: #d2d2d2;
+
+}
+.container{
+	width: 1200px;
+	 margin: 0 auto;
+	 background-color: #202058;
+	 text-align: center;
+	 padding: 40px;
+}
+h1{
+	margin: 0;
+	color: #fff;
+	font-size: 90px;
+}
+p{
+	color: #fff;
+	font-size: 22px;
+	line-height: 40px;
+}
+img{
+	 max-width: 100%;
+	
+	margin: 0 auto;
+	/* justify-content: center; */
+	display: flex;
+	flex: 0 1 auto;
+	padding: 20px;
+}
+div{}
+.banner{
+	width: 1000px;
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background: blueviolet;
+}
+strong{
+	color: yellow;
+}
+span{
+	color: yellowgreen;
+}
